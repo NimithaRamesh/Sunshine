@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nimitharamesh/Desktop/Udacity/Sunshine/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/nimitharamesh/Desktop/Udacity/Sunshine/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-ae674718422e3fa6f2a694574a8be7a7a7a55b2e.jar" />
+    </item>
+    <item
+        jar="/Users/nimitharamesh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/nimitharamesh/Desktop/Udacity/Sunshine/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-f5182706b9e4f8183ad788a5de4f6ff23b362175.jar" />
+    </item>
+    <item
+        jar="/Users/nimitharamesh/Desktop/Udacity/Sunshine/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/nimitharamesh/Desktop/Udacity/Sunshine/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/classes-564b7fc271ca8d33e735d39f74e7d39941c73d5d.jar" />
+    </item>
+    <item
+        jar="/Users/nimitharamesh/Desktop/Udacity/Sunshine/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/nimitharamesh/Desktop/Udacity/Sunshine/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/classes-95f2189b7e34657b6eb356e4e436d772ba7c6fd0.jar" />
+    </item>
+
+</items>
