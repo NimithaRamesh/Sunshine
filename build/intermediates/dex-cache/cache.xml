@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/nimitharamesh/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jar="/Users/nimitharamesh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
-        <dex dex="/Users/nimitharamesh/Documents/Sunshine/app/build/intermediates/pre-dexed/debug/classes-56bca581a5d76e9f22ef026c5403326daf1bd41e.jar" />
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/nimitharamesh/Documents/Sunshine/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-f5182706b9e4f8183ad788a5de4f6ff23b362175.jar" />
     </item>
     <item
         jar="/Users/nimitharamesh/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
@@ -16,11 +16,11 @@
         <dex dex="/Users/nimitharamesh/Documents/Sunshine/app/build/intermediates/pre-dexed/debug/classes-a07ea6a93f68b4ed00025a0bc08c25a351321ab0.jar" />
     </item>
     <item
-        jar="/Users/nimitharamesh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jar="/Users/nimitharamesh/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
-        <dex dex="/Users/nimitharamesh/Documents/Sunshine/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-f5182706b9e4f8183ad788a5de4f6ff23b362175.jar" />
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/nimitharamesh/Documents/Sunshine/app/build/intermediates/pre-dexed/debug/classes-56bca581a5d76e9f22ef026c5403326daf1bd41e.jar" />
     </item>
     <item
         jar="/Users/nimitharamesh/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
